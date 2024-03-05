@@ -6,8 +6,8 @@ import calendar
 # Load data
 @st.cache_data
 def load_data():
-    df_day = pd.read_csv('day.csv')
-    df_hour = pd.read_csv('hour.csv')
+    df_day = pd.read_csv('data/day.csv')
+    df_hour = pd.read_csv('data/hour.csv')
     return df_day, df_hour
 
 df_day, df_hour = load_data()
