@@ -1,23 +1,6 @@
 # bike-sharing 
 This is the final project for the Dicoding course"Belajar Analisis Data dengan Python". 
 
-## File Structure
-'''
-.
-├───dashboard
-| ├───dashboard.py
-| ├───day.csv
-| └───hour.csv
-├───data
-| ├───day.csv
-| ├───our.csv
-| └───Readme.txt 
-├───Proyek_Analisis_Data.ipynb
-├───README.md
-└───requirements.txt
-└───url.txt
-'''
-
 ## Project Work Cycle
 1. Data Wrangling
    - Gathering Data
