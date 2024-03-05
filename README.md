@@ -2,6 +2,8 @@
 This is the final project for the Dicoding course"Belajar Analisis Data dengan Python". 
 
 ## File Structure
+'''
+.
 ├───dashboard
 | ├───dashboard.py
 | ├───day.csv
@@ -14,6 +16,7 @@ This is the final project for the Dicoding course"Belajar Analisis Data dengan P
 ├───README.md
 └───requirements.txt
 └───url.txt
+'''
 
 ## Project Work Cycle
 1. Data Wrangling
