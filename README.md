@@ -1,6 +1,6 @@
 # bike-sharing 
 This is the final project for the Dicoding course"Belajar Analisis Data dengan Python". 
-You can check the final project here.[Bike-Sharing](https://bike-sharing-zuh7op3nt2hnhve2krube6.streamlit.app/)
+You can check the final project here [Bike-Sharing](https://bike-sharing-zuh7op3nt2hnhve2krube6.streamlit.app/).
 
 ## Project Work Cycle
 1. Data Wrangling
